@@ -217,7 +217,7 @@ footer {
 
 /* Responsiveness */
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 782px) {
 	.nav li {
 		width: 100px;
 		border-bottom: none;
