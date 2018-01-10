@@ -14,9 +14,9 @@ body {
 }
 
 .nav li {
-	font-family: 'Oswald', sans-serif;
-	font-size: 1.2em;
-	line-height: 40px;
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 1.4em;
+	line-height: 30px;
 	height: 40px;
 	border-bottom: 1px solid #888;
 	display: inline-block;
@@ -219,10 +219,10 @@ footer {
 
 @media screen and (min-width: 600px) {
 	.nav li {
-		width: 120px;
+		width: 100px;
 		border-bottom: none;
 		height: 50px;
 		line-height: 50px;
-		font-size: 1.4em;
+		font-size: 1.0em;
 	}
 }
