@@ -101,6 +101,7 @@ h1 {
 
 .home-content p {
 	font-size: 20px;
+	padding: 0 20px 0 20px;
 }
 
 .home-content img {
@@ -109,13 +110,18 @@ h1 {
 }
 
 .home-content {
-	width: 30%;
+	width: 33.33%;
 	height: 360px;
 	float: left;
 	text-align: center;
 	background: #fff;
 	text-align: center;
-	padding: 0 20px 0 20px;
+}
+
+.home-content:after {
+	content: "";
+	display: table;
+	clear: both;
 }
 
 .bullet-content {
