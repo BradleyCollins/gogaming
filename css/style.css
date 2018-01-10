@@ -99,45 +99,16 @@ h1 {
 	color: #fff;
 }
 
-.hp-content {
-	background: #fff;
-	margin: 0 auto;
-	width: 100%;
+.home-content p {
+	font-size: 20px;
 }
 
-.hp content p {
-	font-size: 100px;
-}
-
-.play img {
+.home-content img {
 	height: 200px;
 	width: 200px;
 }
 
-.play p {
-	font-size: 20px;
-}
-
-.network p {
-	font-size: 20px;
-}
-
-.learn p {
-	font-size: 20px;
-}
-
-
-.network img {
-	height: 200px;
-	width: 200px;
-}
-
-.learn img {
-	height: 200px;
-	width: 200px;
-}
-
-.play {
+.home-content {
 	width: 30%;
 	height: 360px;
 	float: left;
@@ -147,34 +118,6 @@ h1 {
 	padding: 0 20px 0 20px;
 }
 
-.network {
-	width: 30%;
-	height: 360px;
-	float: left;
-	text-align: center;
-	background: #fff;
-	text-align: center;
-	padding: 0 20px 0 20px;
-}
-
-.learn {
-	width: 30%;
-	height: 360px;
-	float: left;
-	text-align: center;
-	background: #fff;
-	text-align: center;
-	padding: 0 20px 0 20px;
-}
-
-/*.bullet-content img {
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-	position: relative;
-	width: 100%;
-	height: 400px
-}*/
 .bullet-content {
 	width: 100%;
 	background-image: url(../images/stadium.jpg);
