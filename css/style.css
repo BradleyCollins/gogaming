@@ -169,8 +169,48 @@ footer {
 	width: 100%;
 	bottom: 0;
 	position: relative;
-	height: 100px;
+	height: 80px;
 
+}
+
+.foot-social {
+	float: left;
+	padding: 10px 10px 0 10px;
+}
+
+.foot-social img {
+	width: 30px;
+	height: 30px;
+}
+
+.foot-social-bottom {
+	float: left;
+	clear: both;
+	padding: 0 10px 0 10px;
+}
+
+.foot-social-bottom img {
+	width: 30px;
+	height: 30px;
+}
+
+.foot-nav ul {
+	list-style: none;
+	background-color: #fff;
+	text-align: right;
+	padding: 0;
+	margin: 0;
+	padding-right: 40px;
+	padding-top: 10px;
+}
+
+.foot-nav li {
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 1.4em;
+	display: inline-block;
+	margin-right: -4px;
+	padding: 0 10px 0 10px;
+	border-right: 1px solid #888;
 }
 
 /* Responsiveness */
