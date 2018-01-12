@@ -147,6 +147,7 @@ h1 {
 .bullet-content ul {
 	color: #fff;
 	font-size: 25px;
+	font-family: 'Titillium Web', sans-serif;
 }
 
 .left-side {
@@ -201,6 +202,7 @@ footer {
 	margin: 0;
 	padding-right: 40px;
 	padding-top: 10px;
+	
 }
 
 .foot-nav li {
